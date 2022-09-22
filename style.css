@@ -1,0 +1,25 @@
+.Para1 {
+    color: darkred;
+    font-weight: bold;
+}
+ .Para2{
+    color: darkgreen;
+    font-size: larger;
+ }   
+
+ .Para3{
+    color: brown;
+    font-style: italic;
+ }
+
+ #Image1{
+    width: 200px;
+ }
+
+ #Image2{
+    width: 200px;
+ }
+
+ #Image3{ 
+    width: 200px;
+ }
