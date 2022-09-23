@@ -14,7 +14,8 @@
 
  #Image1{
     width: 200px;
- }
+    margin-top: 70px;
+     }
 
  #Image2{
     width: 200px;
@@ -23,3 +24,14 @@
  #Image3{ 
     width: 200px;
  }
+
+ #box{
+
+    border: 15px dashed darkred;
+    padding: 20px;
+    width: 1000px;
+    box-sizing: border-box;
+    
+}
+
+

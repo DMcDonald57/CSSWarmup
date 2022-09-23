@@ -1,0 +1,55 @@
+html{
+    color: beige;
+    font-size: 14pt;
+}
+body > div{
+
+}
+
+div > div{
+    margin: 25px;
+    border: 2px crimson solid;
+    display:inline-block;
+    width: 25.33%;
+    box-sizing: border-box;
+}
+
+#div1{
+    background-color: blue;
+    height: 100px;
+    width: 1in;
+    border: 5px solid black;
+    }
+    
+#div2{
+    background-color: #00ff80;
+    height: 100px;
+    width: 100vw;
+    border: 5px solid black;
+    }
+#div3{
+    box-sizing: border-box;
+    background-color: rgb(131, 19, 80);
+    height: 100px;
+    width: 100vw;
+    border: 5px solid black;
+    }
+    
+#div4{
+    background-color: orange;
+    height: 100px;
+    width: 40pt;
+    border: 5px solid black;
+}
+    #div5{
+    background-color: rgb(229, 233, 15);
+    height: 100px;
+    width: 40mm;
+    border: 5px solid black;
+    }
+#div6{
+    background-color: darkgreen;
+    height: 100px;
+    width: 40px;
+    border: 5px solid black;
+}
